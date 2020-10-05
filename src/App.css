@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border:5px solid  palevioletred;
+  background-color: gainsboro;
+    margin-top :70px;
+    margin-bottom :20px;
+    margin-right :100px;
+    margin-left :160px;
+    width: 1000px;
+    height: 100% ;
+    
+}
+.card {
+  margin: 0 auto; 
+  float: none; 
+  margin-bottom: 10px; 
+  margin-top: 10px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;  
+}
+.logos{
+display: flex;
+justify-content: space-around;
+background-color: rgb(46, 44, 44);
+border-bottom:5px solid  palevioletred;
+height: 50px ;
+}
+.icon{
+  margin-top: 15px;
+  color: palevioletred;
+  
+}
+.profile-name {
+  text-align: center;
+  color: palevioletred;
+  font-weight: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+.img-thumbnail{
+  margin-top: 20px;
+
+}
+
+
